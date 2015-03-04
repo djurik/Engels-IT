@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 body {
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 400;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -11,7 +11,7 @@ body {
   backface-visibility: hidden;
 }
 a {
-  color: #e74c3c;
+  color: #fff;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
@@ -43,7 +43,7 @@ a:hover {
 
 .title {
   text-align: center;
-  font-size: 50px;
+  font-size: 35px;
 }
 .subtitle {
   text-align: center;
@@ -75,7 +75,7 @@ a:hover {
 }
 .navbar-default .navbar-nav > .active,
 .navbar-default .navbar-nav li:hover {
-  background: #e74c3c;
+  background: #34495e;
   padding-bottom: 5px;
   color: #fff;
 }
@@ -113,7 +113,7 @@ a:hover {
 #services h3 {
   margin-top: 0;
   font-size: 28px;
-  color: #e74c3c;
+  color: #000000;
 }
 /*Portfolio*/
 #portfolio {
